@@ -3,8 +3,8 @@
         <div class="container py-4">
             <div class="row justify-content-center gap-2">
                 <div v-for="(image, index) in images" :key="index" class="col d-flex justify-content-center align-items-center gap-1">
-                    <img class="img-fluid" :src="image.img" :alt="image.alt">
-                    <p class="m-0 text-white text-uppercase fs-3">{{ image.name }}</p>
+                    <img class="img-fluid" :src="'public/img/' + image.img" :alt="image.alt">
+                    <p class="m-0 text-white text-uppercase fs-5">{{ image.name }}</p>
                 </div>
             </div>
         </div>

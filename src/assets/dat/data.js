@@ -44,27 +44,27 @@ const headerLinks = [
 
 const footerMerchImg = [
     {
-        img: '../vue-dc-comics-1/img/buy-comics-digital-comics.png',
+        img: 'buy-comics-digital-comics.png',
         alt: 'buy-comics-digital-comics',
         name: 'digital comics'
     },
     {
-        img: '../vue-dc-comics-1/img/buy-comics-merchandise.png',
+        img: 'buy-comics-merchandise.png',
         alt: 'buy-comics-merchandise',
         name: 'dc merchandise'
     },
     {
-        img: '../vue-dc-comics-1/img/buy-comics-subscriptions.png',
+        img: 'buy-comics-subscriptions.png',
         alt: 'buy-comics-subscriptions.png',
         name: 'subscription'
     },
     {
-        img: '../vue-dc-comics-1/img/buy-comics-shop-locator.png',
+        img: 'buy-comics-shop-locator.png',
         alt: 'buy-comics-shop-locator',
         name: 'comic shop locator'
     },
     {
-        img: '../vue-dc-comics-1/img/buy-dc-power-visa.svg',
+        img: 'buy-dc-power-visa.svg',
         alt: 'buy-dc-power-visa',
         name: 'dc power visa'
     }
